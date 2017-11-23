@@ -1,0 +1,322 @@
+<<<<<<< HEAD
+=======
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #1f2532;
+}
+
+div {
+    width: 65vw;
+}
+
+a {
+    color: white;
+    font-size: 2em;
+}
+
+
+/*--------------------Tabel--------------------*/
+
+table1 {
+    width: auto;
+    border-style: solid;
+    border-width: 2px;
+}
+
+tr {
+    color: white;
+}
+
+.td2 {
+    padding: 0 0 0 100px;
+}
+
+.td3 {
+    padding: 0 0 0 120px;
+}
+
+
+/*--------------------Link til anim --------------------*/
+
+
+/*--------------------historie idé--------------------*/
+
+#historie_ide p {
+    width: 65vw;
+}
+
+
+/*--------------------historie beskrivelse--------------------*/
+
+#historie_beskrivelse p {
+    width: 65vw;
+}
+
+
+/*--------------------storyboard--------------------*/
+
+#storyboard img {
+    width: 65vw;
+}
+
+
+/*--------------------flowchart--------------------*/
+
+#flowchart img {
+    width: 65vw;
+}
+
+
+/*--------------------moodboard--------------------*/
+
+#layoutdiagram img {
+    width: 65vw;
+}
+
+
+/*--------------------moodboard--------------------*/
+
+#moodboard img {
+    width: 65vw;
+}
+
+
+/*--------------------målgruppe--------------------*/
+
+#mlgruppe_beskrivelse li {
+    font-size: 1em;
+    margin: 2px 0;
+    color: white;
+}
+
+
+/*--------------------personaer--------------------*/
+
+.emil img {
+    width: 25vw;
+}
+
+.emil {
+    margin: 0 0 50px 0;
+}
+
+.emil h3 {
+    border-bottom: solid #89cce5;
+    border-bottom-width: 1px;
+}
+
+.emil p {
+    width: 65vw;
+}
+
+.oline img {
+    width: 25vw;
+}
+
+.oline h3 {
+    border-bottom: solid #89cce5;
+    border-bottom-width: 1px;
+}
+
+.oline p {
+    width: 65vw;
+}
+
+
+/*--------------------styletile--------------------*/
+
+#styletile img {
+    width: 20vw;
+}
+
+#styletile img:hover {
+    opacity: .6;
+}
+
+
+/*--------------------scenografi--------------------*/
+
+#scenografi img {
+    width: 65vw;
+}
+
+
+/*--------------------layoutdiagram--------------------*/
+
+
+/*--------------------sekvensdiagram--------------------*/
+
+#sekvensdiagram img {
+    width: 20vw;
+}
+
+#sekvensdiagram img:hover {
+    opacity: .6;
+}
+
+
+/*--------------------assets--------------------*/
+
+#assetliste img {
+    width: 20vw;
+}
+
+#assetliste img:hover {
+    opacity: .6;
+}
+
+
+/*--------------------test--------------------*/
+
+#test a {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+#test a:hover {
+    font-size: 1.8em;
+    color: #ef8f1f;
+}
+
+
+/*--------------------fernis-stand--------------------*/
+
+#foto img {
+    width: 65vw;
+}
+
+
+/*--------------------trello--------------------*/
+
+#trello a {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+#trello a:hover {
+    font-size: 1.8em;
+    color: #ef8f1f;
+}
+
+
+/*--------------------burndown chart--------------------*/
+
+#burndown img {
+    height: 100vw;
+    width: 65vw;
+}
+
+
+/*-----------------------font-------------*/
+
+.hvid {
+    color: #ffffff;
+}
+
+.orange {
+    color: #ef8f1f;
+}
+
+.blue {
+    color: #89cce5;
+}
+
+.b1 {
+    font-size: 1.2em;
+    color: white;
+}
+
+b {
+    font-size: 1.2em;
+    color: #89cce5;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 2px 0;
+    color: white;
+}
+
+h1 {
+    font-size: 5em;
+    padding: 50px 0;
+    margin: 0;
+}
+
+h2 {
+    border-bottom: solid #ef8f1f;
+    color: #ffffff;
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 2em;
+    margin: 5px 0;
+    color: #89cce5;
+}
+
+footer {
+    color: #89cce5;
+    padding: 50px 0;
+}
+
+header {
+    position: fixed;
+    width: 20vw;
+    height: 30vw;
+    left: 75vw;
+}
+
+header p {
+    font-family: "Roboto", sans-serif;
+    text-align: right;
+    color: #ef8f1f;
+    font-size: 5em;
+}
+
+header nav {
+    font-family: "Roboto", sans-serif;
+    text-align: right;
+    margin: 0 2vw 0 0;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 10px;
+    display: block;
+}
+
+header nav a:hover {
+    color: #ef8f1f;
+    /*en anden farve når musen går henover*/
+}
+
+
+/*
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #111;
+}*/
+>>>>>>> origin/master
