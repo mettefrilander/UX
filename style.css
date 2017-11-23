@@ -1,14 +1,14 @@
-
 body {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
     padding: 50px;
-    background-color: #C2BDAD;
+    background-color: #0F2629;
 }
 
 div {
     width: 65vw;
 }
+
 
 /*a {
     color: white;
@@ -17,11 +17,11 @@ div {
 
 
 /*--------------------Menu--------------------*/
+
 a {
     text-decoration: none;
     list-style: none;
 }
-
 
 header {
     position: fixed;
@@ -33,7 +33,7 @@ header {
     width: 100%;
     margin: 0 auto;
     height: 50px;
-    background-color: #ffa500;
+    background-color: #109B97;
 }
 
 .menu nav {
@@ -118,11 +118,6 @@ header h1 {
     margin: 0px auto;
     text-align: center;
 }
-
-
-
-
-
 
 
 /*--------------------Tabel--------------------*/
@@ -324,7 +319,7 @@ tr {
 }
 
 .orange {
-    color: #ef8f1f;
+    color: #109B97;
 }
 
 .blue {
@@ -354,7 +349,7 @@ h1 {
 }
 
 h2 {
-    border-bottom: solid #ef8f1f;
+    border-bottom: solid #109B97;
     color: #ffffff;
     font-size: 3em;
 }
@@ -369,6 +364,8 @@ footer {
     color: #89cce5;
     padding: 50px 0;
 }
+
+
 /*
 header {
     position: fixed;
@@ -400,7 +397,7 @@ header nav a {
 header nav a:hover {
     color: #C27784;
     /*en anden farve når musen går henover*/
+
+
 }
-
-
 *)/
