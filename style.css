@@ -164,20 +164,22 @@ tr {
 
 #storyboard img {
     width: 65vw;
+    height: 200px;
 }
 
 
-/*--------------------flowchart--------------------*/
+/*--------------------Experience_map--------------------*/
 
-#flowchart img {
+#experience_map img {
     width: 65vw;
 }
 
 
-/*--------------------moodboard--------------------*/
+/*--------------------aktivitet--------------------*/
 
-#layoutdiagram img {
+#aktivitet img  {
     width: 65vw;
+    height: 700px;
 }
 
 
