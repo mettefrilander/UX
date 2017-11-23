@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
@@ -9,10 +10,119 @@ div {
     width: 65vw;
 }
 
-a {
+/*a {
     color: white;
     font-size: 2em;
+}/*
+
+
+/*--------------------Menu--------------------*/
+a {
+    text-decoration: none;
+    list-style: none;
 }
+
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.menu {
+    width: 100%;
+    margin: 0 auto;
+    height: 50px;
+    background-color: #ffa500;
+}
+
+.menu nav {
+    font-family: Arial;
+}
+
+.menu nav a {
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    padding: 15px 15px;
+}
+
+.menu nav a:hover {
+    color: #ffffff;
+    background-color: #ffa500;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+
+li {
+    float: left;
+}
+
+li a,
+.dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 16px 10px;
+    text-decoration: none;
+}
+
+li a:hover,
+.dropdown:hover .dropbtn {
+    background-color: #202532;
+}
+
+li.dropdown {
+    display: inline-block;
+    z-index: 1000;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffa500;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 7px 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: white;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    z-index: 1000;
+}
+
+.show {
+    display: block;
+}
+
+header h1 {
+    margin: 0px auto;
+    text-align: center;
+}
+
+
+
+
+
 
 
 /*--------------------Tabel--------------------*/
@@ -259,7 +369,7 @@ footer {
     color: #89cce5;
     padding: 50px 0;
 }
-
+/*
 header {
     position: fixed;
     width: 20vw;
@@ -293,27 +403,4 @@ header nav a:hover {
 }
 
 
-/*
-.menu ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-.menu li {
-    float: left;
-}
-
-.menu li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-.menu li a:hover {
-    background-color: #111;
-}*/
+*)/
